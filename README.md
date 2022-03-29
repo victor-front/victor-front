@@ -3,6 +3,6 @@
 🤓 Studing HTML, CSS and JS.<br>
 ☺️ Pronoums: He/Him or They/Them <br><br>
  <a href="https://github.com/victor-4guiar">
- <img align="right" alt="Vih" src="https://media.discordapp.net/attachments/918659534338269224/958381940443054090/vih.gif">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-4guiar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-4guiar&layout=compact&langs_count=7&theme=dark"/>
+ <img height="100" align="right" alt="Vih" src="https://media.discordapp.net/attachments/918659534338269224/958381940443054090/vih.gif">
