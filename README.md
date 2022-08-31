@@ -1,6 +1,6 @@
 ### Hello! I'm Victor Aguiar :)
 
-🤓 Studing HTML, CSS, JS and React.<br>
+🤓 Studying HTML, CSS, JS and React.<br>
 ☺️ Pronoums: He/Him.<br>
 🧍 17 years old.<br><br>
  <a href="https://github.com/victor-4guiar">
