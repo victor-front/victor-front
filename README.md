@@ -1,5 +1,7 @@
 ### Hello! I'm Victor Aguiar :)
 
+<img height="100" width="100" src="https://media.discordapp.net/attachments/918659534338269224/1020869396710830140/2.png?width=427&height=427" />
+
 🤓 Studying HTML, CSS, JS and React.<br>
 ☺️ Pronoums: He/Him.<br>
 🧍 17 years old.<br><br>
