@@ -10,5 +10,4 @@
 🤓 Studying HTML, CSS, JS and React.<br>
 ☺️ Pronoums: He/Him.<br>
 🧍 17 years old.<br><br>
-<a href="https://github.com/victor-4guiar">
- <a href="https://victor-4guiar.github.io/portifolio-victor/" rel="external" target="_blank">Portifolio</a>
+<a href="https://victor-4guiar.github.io/portifolio-victor/" rel="external" target="_blank">Portifolio</a>
