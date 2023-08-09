@@ -7,5 +7,5 @@
 </div><br/>
 
 🤓 Studying HTML, CSS, JS and TypeScript.<br>
-🧍 17 years old.<br><br>
+🧍 18 years old.<br><br>
 <a href="https://victor-front.github.io/Portfolio-Victor-g2/" rel="external" target="_blank">Portfolio</a>
